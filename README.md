@@ -31,7 +31,7 @@ npm install
 Run the application:
 
 ``` bash 
-node server.js
+node app.js
 ```
 This will start the server on http://localhost:3000. Open a web browser and navigate to this URL to initiate the OAuth authentication.
 
