@@ -1,0 +1,10 @@
+{
+  "web": {
+    "client_id": "599578341847-ng8hc1jic932bkkk4nocnbv2ug0q17u1.apps.googleusercontent.com",
+    "project_id": "openinappassignment-409523",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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"
+  }
+}
